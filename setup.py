@@ -13,9 +13,9 @@ setup(name='pysheds',
       install_requires=[
           'numpy',
           'pandas',
-          'scipy',
+          #'scipy',
           'pyproj',
-          'scikit-image',
+          #'scikit-image',
           'affine',
           'geojson',
           'rasterio>=1'
