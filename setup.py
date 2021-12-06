@@ -13,7 +13,7 @@ setup(name='pysheds',
       install_requires=[
           'numpy',
           'pandas',
-          #'scipy',
+          'scipy',
           'pyproj',
           #'scikit-image',
           'affine',
